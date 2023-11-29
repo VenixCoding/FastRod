@@ -1,0 +1,7 @@
+name: FastRod
+main: FastRod.Main
+author: O16
+version: 1.0
+commands:
+   rreload:
+   rodreload:
